@@ -4,7 +4,7 @@
 
 # Fork 修改
 
-【2019.9.29】修改了 `vue-touch` 引用路径，从git直接引用改为从npm依赖。顺便报名修改为 `vue-4d-picker`
+【2019.9.20】修改了 `vue-touch` 引用路径，从git直接引用改为从npm依赖。顺便报名修改为 `vue-4d-picker`
 
 # Overview
 
