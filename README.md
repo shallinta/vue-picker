@@ -2,6 +2,10 @@
 [Picker]: https://xiecg.github.io/2016/10/23/vue-picker/
 [vue-picker]: https://xiecg.github.io/other/vue-picker/#/date
 
+# Fork 修改
+
+【2019.9.29】修改了 `vue-touch` 引用路径，从git直接引用改为从npm引用。
+
 # Overview
 
 The picker component based on vue.js

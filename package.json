@@ -1,6 +1,6 @@
 {
   "name": "vue-3d-picker",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "The picker component based on vue.js.",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "raf.js": "^0.0.4",
-    "vue-touch": "git://github.com/vuejs/vue-touch.git#next"
+    "vue-touch": "^2.0.0-beta.4"
   },
   "repository": {
     "type": "git",
