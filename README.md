@@ -4,7 +4,7 @@
 
 # Fork 修改
 
-【2019.9.29】修改了 `vue-touch` 引用路径，从git直接引用改为从npm引用。
+【2019.9.29】修改了 `vue-touch` 引用路径，从git直接引用改为从npm依赖。顺便报名修改为 `vue-4d-picker`
 
 # Overview
 
@@ -17,11 +17,11 @@ The picker component based on vue.js
 # Install
 
 ```Bash
-npm install vue-3d-picker --save
+npm install vue-4d-picker --save # 修改为 vue-4d-picker
 ```
 
 ```JavaScript
-import picker from 'vue-3d-picker';
+import picker from 'vue-4d-picker'; // 修改为 vue-4d-picker
 ```
 
 Register component:
